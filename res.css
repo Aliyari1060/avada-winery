@@ -1,0 +1,13 @@
+@media only screen and(max-width: 768px){
+    .row4{
+        display: flex;
+        justify-content: start;
+        align-items: center;
+    }
+    .row4-1{
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        text-align: left;
+    }
+}
