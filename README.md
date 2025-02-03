@@ -1,4 +1,6 @@
 # avada-winery
-developed by html &amp; css &amp; bootstrap and responsive
-<p>●created in 2025/2/31</p>
+-developed by Ali yari
+<p>- created in 2025/2/31</p>
+<p>- Role-frontend</p>
+<p>- technologies used html-css-bootstrap</p>
 <a href="https://aliyari1060.github.io/avada-winery/">online web</a>
