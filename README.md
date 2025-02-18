@@ -1,7 +1,7 @@
 # avada-winery
 
 
-![Image](https://github.com/user-attachments/assets/a34a8981-5339-4039-8c05-23a84a4e0a9f)
+![Image](https://github.com/user-attachments/assets/105409ba-79f6-4434-99f2-69cf50771539)
 
 
 -developed by Ali yari
